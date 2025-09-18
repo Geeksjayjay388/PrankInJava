@@ -1,1 +1,15 @@
 # PrankInJava
+# PrankVirusAlert 😈
+
+A harmless Java prank that simulates a fake virus alert using popup messages. Great for surprising your friends or classmates—without causing any damage.
+
+## ⚙️ How It Works
+
+This program uses `JOptionPane` to display a series of dramatic alerts, mimicking a system breach. After a few tense moments, it reveals the prank and ends with a friendly message.
+
+## 🚀 How to Run
+
+1. Clone or download the file `PrankVirusAlert.java`.
+2. Compile the program:
+   ```bash
+   javac PrankVirusAlert.java
